@@ -5,7 +5,7 @@
 "name":"merlinclash",
 "title":"Merlin Clash",
 "version":"20210917384",
-"patch_version":"003",
+"patch_version":"004",
 "com_version":"2021060601",
 "game_version":"2020071901"
 }
